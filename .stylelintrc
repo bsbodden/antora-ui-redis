@@ -4,5 +4,10 @@
     "comment-empty-line-before": null,
     "no-descending-specificity": null,
     "rule-empty-line-before": null,
+    "declaration-colon-newline-after": null,
+    "selector-combinator-space-after": null,
+    "selector-combinator-space-before": null,
+    "indentation": null,
+    "no-missing-end-of-source-newline": null,
   }
 }
